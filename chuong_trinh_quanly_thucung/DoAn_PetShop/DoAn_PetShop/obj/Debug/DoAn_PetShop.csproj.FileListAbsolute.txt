@@ -1,0 +1,835 @@
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\DEMO_QLPETSHOP\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+F:\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\25_3_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\13_4_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Videos\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\5_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\7_5_2023\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\sua\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.dll
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Buffers.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Memory.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Numerics.Vectors.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Encodings.Web.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Text.Json.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\bin\Debug\System.ValueTuple.xml
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.AlterUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ChangePassword.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.dataTable.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.DetailTBSP.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.EditDataFile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.HistoryBill.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.History_Audit.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OracleForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Policy.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.PrivilegeofUser.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProfileDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.RoleDetail.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpace.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.TableSpaceModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserProfile.resources
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\code_java\QL_CUAHANGTHUCUNG\9_5_2023\final\DoAn_Oracle\chuong_trinh_quanly_thucung\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
